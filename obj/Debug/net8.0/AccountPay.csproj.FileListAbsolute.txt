@@ -1538,3 +1538,4 @@ E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\
 E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\refint\AccountPay.dll
 E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\AccountPay.pdb
 E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\ref\AccountPay.dll
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\AccountPay.sourcelink.json
