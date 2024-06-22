@@ -921,6 +921,7 @@ E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\
 E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\AccountPay.AssemblyInfo.cs
 E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\AccountPay.csproj.CoreCompileInputs.cache
 E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\AccountPay.MvcApplicationPartsAssemblyInfo.cache
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\AccountPay.sourcelink.json
 E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\webcil\Azure.Core.wasm
 E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\webcil\Azure.Identity.wasm
 E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\webcil\Humanizer.wasm
@@ -1538,4 +1539,3 @@ E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\
 E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\refint\AccountPay.dll
 E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\AccountPay.pdb
 E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\ref\AccountPay.dll
-E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\obj\Debug\net8.0\AccountPay.sourcelink.json
