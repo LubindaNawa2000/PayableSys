@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AccountPay",
   "resources": {
-    "hash": "sha256-ywb6hGLo5bif2WJ4SPz1fiM8GeF8qXynZPMTaq+BFqo=",
+    "hash": "sha256-LtOCd3p3SNxqweImwHEsH6nWSaHwlLo4wUoiYMc2iJg=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.1927strob1.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
     },
@@ -257,10 +257,10 @@
       "mscorlib.wasm": "sha256-EpWTfh4m/hEcXRFYMCR9YeYHwdUJgcm1laBaxWfq2S4=",
       "netstandard.wasm": "sha256-2kH24/YfHmU3B4eYRyRmiwebYROM4+B9eDWKvMnUdP8=",
       "System.Private.CoreLib.wasm": "sha256-CsySKiP7HYY1pS8LTDE60EkqiX5oHb3WoEZHDNd1yK0=",
-      "AccountPay.wasm": "sha256-eldTaDmNeMHlO4qHGWOedv/LJ3b6iTZuMtA3LhJsN8c="
+      "AccountPay.wasm": "sha256-41mZ+eI2KMlwMpS/jTnjzmmO+d9dtQqhjt8YYyRerqg="
     },
     "pdb": {
-      "AccountPay.pdb": "sha256-77Ftq+GSjc59DOLytiQ0px2WWP0c6GIzIL4nYx10SOE="
+      "AccountPay.pdb": "sha256-XrINZDVMETs0WsLGT/Hw/NR3gMy7Gj0sFgafVj3fuhw="
     },
     "satelliteResources": {
       "cs": {
