@@ -27,11 +27,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "E:\\Docs\\Coding Projects\\CS432 Assessment\\AccountsPayablev2\\AccountPay\\AccountPay.Shared\\AccountPay.Shared.csproj": {
-                "projectPath": "E:\\Docs\\Coding Projects\\CS432 Assessment\\AccountsPayablev2\\AccountPay\\AccountPay.Shared\\AccountPay.Shared.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -122,67 +118,6 @@
       "runtimes": {
         "browser-wasm": {
           "#import": []
-        }
-      }
-    },
-    "E:\\Docs\\Coding Projects\\CS432 Assessment\\AccountsPayablev2\\AccountPay\\AccountPay.Shared\\AccountPay.Shared.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "E:\\Docs\\Coding Projects\\CS432 Assessment\\AccountsPayablev2\\AccountPay\\AccountPay.Shared\\AccountPay.Shared.csproj",
-        "projectName": "AccountPay.Shared",
-        "projectPath": "E:\\Docs\\Coding Projects\\CS432 Assessment\\AccountsPayablev2\\AccountPay\\AccountPay.Shared\\AccountPay.Shared.csproj",
-        "packagesPath": "C:\\Users\\Lubinda\\.nuget\\packages\\",
-        "outputPath": "E:\\Docs\\Coding Projects\\CS432 Assessment\\AccountsPayablev2\\AccountPay\\AccountPay.Shared\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Lubinda\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.5, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
