@@ -1,0 +1,13 @@
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\bin\Debug\net8.0\AccountPay.Shared.deps.json
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\bin\Debug\net8.0\AccountPay.Shared.dll
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\bin\Debug\net8.0\AccountPay.Shared.pdb
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\obj\Debug\net8.0\AccountPay.Shared.csproj.AssemblyReference.cache
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\obj\Debug\net8.0\AccountPay.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\obj\Debug\net8.0\AccountPay.Shared.AssemblyInfoInputs.cache
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\obj\Debug\net8.0\AccountPay.Shared.AssemblyInfo.cs
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\obj\Debug\net8.0\AccountPay.Shared.csproj.CoreCompileInputs.cache
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\obj\Debug\net8.0\AccountPay.Shared.sourcelink.json
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\obj\Debug\net8.0\AccountPay.Shared.dll
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\obj\Debug\net8.0\refint\AccountPay.Shared.dll
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\obj\Debug\net8.0\AccountPay.Shared.pdb
+E:\Docs\Coding Projects\CS432 Assessment\AccountsPayablev2\AccountPay\AccountPay.Shared\obj\Debug\net8.0\ref\AccountPay.Shared.dll

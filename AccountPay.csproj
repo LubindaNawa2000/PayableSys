@@ -4,6 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+  <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
 
   <ItemGroup>
@@ -21,6 +22,8 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <ProjectReference Include="AccountPay.Shared\AccountPay.Shared.csproj" />
   </ItemGroup>
+
 
 </Project>

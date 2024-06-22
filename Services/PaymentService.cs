@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using AccountPay;
 using AccountPay.Services;
+using AccountPay.Shared;
 
 namespace AccountPay.Services
 {

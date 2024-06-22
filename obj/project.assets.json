@@ -2023,6 +2023,19 @@
             "rid": "win"
           }
         }
+      },
+      "AccountPay.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.5"
+        },
+        "compile": {
+          "bin/placeholder/AccountPay.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccountPay.Shared.dll": {}
+        }
       }
     },
     "net8.0/browser-wasm": {
@@ -3898,6 +3911,19 @@
           "lib/net6.0/System.Windows.Extensions.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "AccountPay.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.5"
+        },
+        "compile": {
+          "bin/placeholder/AccountPay.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccountPay.Shared.dll": {}
         }
       }
     }
@@ -7389,10 +7415,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "AccountPay.Shared/1.0.0": {
+      "type": "project",
+      "path": "AccountPay.Shared/AccountPay.Shared.csproj",
+      "msbuildProject": "AccountPay.Shared/AccountPay.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "AccountPay.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.1",
       "Microsoft.AspNetCore.Components.WebAssembly.Authentication >= 8.0.1",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.1",
@@ -7431,7 +7463,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Docs\\Coding Projects\\CS432 Assessment\\AccountsPayablev2\\AccountPay\\AccountPay.Shared\\AccountPay.Shared.csproj": {
+              "projectPath": "E:\\Docs\\Coding Projects\\CS432 Assessment\\AccountsPayablev2\\AccountPay\\AccountPay.Shared\\AccountPay.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
